@@ -1,0 +1,20 @@
+// normalize
+@import '../vendor/normalize-scss/normalize';
+
+// common 
+@import 'common/var';
+@import 'common/grid';
+@import 'common/global';
+@import 'common/responsive';
+
+// components
+@import 'components/header';
+@import 'components/footer';
+@import 'components/button';
+@import 'components/icon';
+@import 'components/link';
+@import 'components/navigation';
+@import 'components/popup';
+
+// pages
+@import 'pages/agent';

@@ -1,0 +1,14 @@
+header {
+	height: 50px;
+	.customer, .signout {
+		text-decoration: underline;
+	}
+	ul {
+		margin-top: 20px;
+		float: right;
+		li {
+			display: inline-block;
+			margin-right: 20px;
+		}
+	}
+}
